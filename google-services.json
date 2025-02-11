@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925735414498",
+    "project_id": "live-60a6c",
+    "storage_bucket": "live-60a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925735414498:android:155dd6765a861e521b0cbb",
+        "android_client_info": {
+          "package_name": "com.anonymous.live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkV_HsZBHtmICJiIwu9EwNON77L1F1Wq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
